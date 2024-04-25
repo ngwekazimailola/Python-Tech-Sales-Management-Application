@@ -1,7 +1,7 @@
 # Python-Tech-Sales-Management-Application
 ## Introduction
 
-Welcome to the CTU Tech Sales Management Application! This application is designed to assist a tech company with multiple shops, in managing their sales operations. The application allows for easy management of shop details, sales, returns, and stock.
+This application is designed to assist a tech company with multiple shops, in managing their sales operations. The application allows for easy management of shop details, sales, returns, and stock.
 
 ## Requirements
 
