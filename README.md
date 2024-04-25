@@ -5,7 +5,7 @@ This application is designed to assist a tech company with multiple shops, in ma
 
 ## Requirements
 
-This application fulfills the following requirements set by CTU Tech management:
+This application fulfills the following requirements set:
 
 1. **Main Application and Class Structure**
     - The main application logic is separated into two files: `ctuMain.py` (for main application logic) and `ctuClass.py` (for class definitions).
